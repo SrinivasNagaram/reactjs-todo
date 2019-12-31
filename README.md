@@ -1,3 +1,2 @@
 # reactjs-todo
-ReactJS Todos App.
-ReactJS and Firebase
+ReactJS Todos App (ReactJS and Firebase)
