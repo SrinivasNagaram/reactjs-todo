@@ -1,2 +1,2 @@
 # reactjs-todo
-ReactJS Todo App
+ReactJS Todos App.
